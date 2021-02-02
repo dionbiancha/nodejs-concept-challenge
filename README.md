@@ -1,4 +1,5 @@
 <h1 align="center">
+    <img alt="Ladding page" src="https://user-images.githubusercontent.com/4256471/60937329-69836380-a2a6-11e9-910b-759f9f1d26a7.png" />
     <br>
     Node.js concept challenge
 </h1>
@@ -25,6 +26,10 @@
   </a>
 
   <img alt="GitHub" src="https://img.shields.io/github/license/dionbiancha/nodejs-concept-challenge.svg">
+</p>
+
+<p align="center">
+  <img alt="Gif" src="https://res.cloudinary.com/dionbiancha/image/upload/v1612287299/github/555_h01lgs.gif">
 </p>
 
 <p align="center">
