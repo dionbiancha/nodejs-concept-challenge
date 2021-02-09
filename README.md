@@ -57,7 +57,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) instal
 $ git clone https://github.com/dionbiancha/nodejs-concept-challenge
 
 # Go into the repository
-$ cd gostack-backend-with-nodejs
+$ cd nodejs-concept-challenge
 
 # Install dependencies
 $ yarn install
